@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-52284acbc3.setwr.cn/sitemap.xml

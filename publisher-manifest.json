@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "09c0e47c8d8c2d8ce013e911",
+  "owner": "uyfpwu",
+  "repo": "page-70a039e8c15dbd87f2425ecf",
+  "title": "阿甘加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "70a039e8c15dbd87f2425ecf",
+      "a": "阿甘加速",
+      "b": "",
+      "entity": "阿甘加速",
+      "brand": "阿甘加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2c7a955f4d78cd4a9ad97e20237e79030937133df4fcc633f58d6a572251fe09",
+      "content": {
+        "keyword1": "阿甘加速",
+        "keyword2": "",
+        "primary_entity": "阿甘加速",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "阿甘加速是一家专注个人与小团队网络加速服务的供应商，提供基础版、旗舰版、团队版三档月付与年付方案，覆盖流媒体解锁、多设备同连与定制路由。",
+          "AI_DESCRIPTION": "阿甘加速是一家专注个人与小团队网络加速服务的供应商，提供基础版、旗舰版、团队版三档月付与年付方案，覆盖流媒体解锁、多设备同连与定制路由。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#f5efe4;color:#3a1f23;font-family:-apple-system,BlinkMacSystemFont,\"Helvetica Neue\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.7}\nimg,svg,iframe,script{display:none}\na{color:#7a1f2b;text-decoration:none;border-bottom:1px dotted #7a1f2b}\na:hover{background:#7a1f2b;color:#f5efe4}\nh1,h2,h3,h4{font-weight:600;letter-spacing:.02em;color:#3a1f23;margin:0 0 .6em}\nh1{font-size:clamp(2.4rem,6vw,4.6rem);line-height:1.05}\nh2{font-size:clamp(1.6rem,3vw,2.2rem);border-left:6px solid #7a1f2b;padding-left:.6em}\nh3{font-size:1.2rem}\np{margin:0 0 1em}\nmain{display:block;max-width:1120px;margin:0 auto;padding:0 20px 80px}\nsection{margin:0 0 64px;scroll-margin-top:16px}\nsection header{margin-bottom:24px}\n\n.band{position:relative;padding:96px 0 88px;color:#f5efe4;background:#5e1422;overflow:hidden}\n.band::before{content:\"\";position:absolute;inset:auto 0 0 0;height:34%;background:#7a1f2b}\n.band::after{content:\"\";position:absolute;inset:0 0 auto 0;height:14%;background:#9a3043}\n.band-inner{position:relative;z-index:2;padding:0 24px}\n.band-eyebrow{display:inline-block;padding:6px 14px;border:1px dashed #f5efe4;font-size:.82rem;letter-spacing:.18em;text-transform:uppercase}\n.band h1{margin-top:24px;color:#f5efe4;max-width:18ch}\n.band p.lede{margin-top:18px;font-size:1.1rem;max-width:48ch;color:#f5efe4;opacity:.92}\n.band-jump{margin-top:36px;display:flex;flex-wrap:wrap;gap:10px}\n.band-jump a{padding:8px 16px;border:1px dashed #f5efe4;color:#f5efe4;font-size:.9rem;letter-spacing:.05em}\n.band-jump a:hover{background:#f5efe4;color:#5e1422}\n\n.intro{padding:56px 24px;background:#faf3e6;border-top:1px dashed #b58a8f;border-bottom:1px dashed #b58a8f}\n.intro p{max-width:62ch;font-size:1.05rem}\n.intro .stamp{display:inline-block;margin-top:8px;padding:4px 10px;border:1px dashed #7a1f2b;color:#7a1f2b;font-size:.78rem;letter-spacing:.12em}\n\n.steps ol{counter-reset:step;padding:0;list-style:none;display:grid;gap:16px}\n.steps li{counter-increment:step;position:relative;padding:18px 20px 18px 78px;background:#faf3e6;border:1px dashed #b58a8f}\n.steps li::before{content:counter(step,decimal-leading-zero);position:absolute;left:18px;top:18px;font-family:\"Menlo\",monospace;font-size:1.6rem;color:#7a1f2b;letter-spacing:.05em}\n.steps li strong{display:block;margin-bottom:4px}\n\n.tickets{display:grid;gap:18px}\n@media(min-width:760px){.tickets{grid-template-columns:repeat(3,1fr)}}\n.ticket{position:relative;background:#faf3e6;border:1px dashed #b58a8f;padding:22px 22px 60px;font-size:.96rem}\n.ticket::after{content:\"\";position:absolute;left:18px;right:18px;bottom:18px;border-top:1px dashed #b58a8f}\n.ticket h3{margin-bottom:8px}\n.ticket p{margin:0 0 8px;color:#5a3236}\n.ticket ul{margin:0;padding-left:18px}\n.ticket li{margin-bottom:4px}\n\n.plans-wrap{padding:32px 0}\n.plans{display:grid;gap:18px}\n@media(min-width:840px){.plans{grid-template-columns:repeat(3,1fr);align-items:start}}\n.plan{position:relative;background:#faf3e6;border:1px dashed #b58a8f;padding:28px 24px 32px;display:flex;flex-direction:column}\n.plan.is-feature{border:2px solid #7a1f2b;background:#fff7e8;transform:translateY(-12px);box-shadow:0 18px 40px -28px #5e1422}\n.plan .ribbon{position:absolute;top:-12px;left:24px;padding:4px 10px;background:#7a1f2b;color:#f5efe4;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase}\n.plan h3{font-size:1.3rem;margin-bottom:6px}\n.plan .price{font-size:2rem;font-weight:600;color:#3a1f23;margin:8px 0 4px}\n.plan .price small{font-size:.85rem;font-weight:400;color:#7a1f2b;margin-left:6px}\n.plan .annual{margin:0 0 18px;font-size:.9rem;color:#7a1f2b}\n.plan ul{margin:0 0 22px;padding:0;list-style:none;border-top:1px dashed #b58a8f}\n.plan li{padding:10px 0;border-bottom:1px dashed #b58a8f;font-size:.92rem;display:flex;gap:8px}\n.plan li::before{content:\"·\";color:#7a1f2b;font-weight:600}\n.plan .foot{margin-top:auto;padding-top:14px;font-size:.78rem;color:#7a1f2b;letter-spacing:.06em}\n\n.clients{margin-top:8px}\n.clients p{max-width:60ch}\n.client-list{display:grid;gap:14px;grid-template-columns:1fr;margin-top:18px}\n@media(min-width:720px){.client-list{grid-template-columns:repeat(3,1fr)}}\n.client{display:flex;flex-direction:column;gap:6px;padding:16px 18px;background:#faf3e6;border:1px dashed #b58a8f}\n.client .os{font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:#7a1f2b}\n.client .name{font-weight:600}\n.client .note{font-size:.88rem;color:#5a3236}\n.client .src{margin-top:auto;font-size:.82rem;color:#7a1f2b}\n\n.faq-group{margin-bottom:36px}\n.faq-group h3{margin-bottom:14px;padding-bottom:6px;border-bottom:1px dashed #b58a8f}\n.faq-item{padding:14px 18px;background:#faf3e6;border:1px dashed #b58a8f;margin-bottom:10px}\n.faq-item summary{cursor:pointer;font-weight:600;color:#3a1f23;list-style:none}\n.faq-item summary::-webkit-details-marker{display:none}\n.faq-item summary::before{content:\"＋\";display:inline-block;width:1.4em;color:#7a1f2b;font-weight:400}\n.faq-item[open] summary::before{content:\"－\"}\n.faq-item p{margin:10px 0 0;color:#5a3236}\n\n.foot-band{background:#5e1422;color:#f5efe4;padding:32px 24px;text-align:center;font-size:.85rem;letter-spacing:.06em}\n.foot-band a{color:#f5efe4;border-bottom:1px dotted #f5efe4;margin:0 6px}\n.foot-band a:hover{background:#f5efe4;color:#5e1422}\n</style><main>\n\n<section class=\"band\" id=\"top\">\n<div class=\"band-inner\">\n<span class=\"band-eyebrow\">阿甘加速 · 个人与小团队加速服务</span>\n<h1>阿甘加速 · 让每一次连接，都像一次散步那样从容。</h1>\n<p class=\"lede\">阿甘加速为个人玩家、远程办公者与小团队提供长期可用的加速线路与节点资源，按月或按年自由订阅，不绑定硬件、不强推附加包。</p>\n<div class=\"band-jump\">\n<a href=\"#intro\">了解阿甘加速</a>\n<a href=\"#how\">使用流程</a>\n<a href=\"#scope\">服务范围</a>\n<a href=\"#plans\">套餐与价格</a>\n<a href=\"#clients\">客户端支持</a>\n<a href=\"#faq\">常见问题</a>\n</div>\n</div>\n</section>\n\n<section class=\"intro\" id=\"intro\">\n<header>\n<h2>关于阿甘加速</h2>\n</header>\n<p>阿甘加速是一家面向个人与小团队用户的加速服务供应商，主打“按月买、按年省、设备不锁死”的轻量订阅模式。我们不做硬件捆绑，也不堆砌无法验证的口径参数；套餐价格、流量额度、设备数与解锁范围，在本页全部写明，付款前可逐条核对。</p>\n<p>对于偶尔出国办公、需要解锁流媒体、以及小团队共享同一节点池的用户，阿甘加速提供从 100GB 到 1000GB 的三档流量阶梯。订阅生效后，账号可在套餐允许的设备数量内任意组合使用，不区分家庭与商用场景。</p>\n<span class=\"stamp\">无承诺 · 按订阅计费 · 可月付可年付</span>\n</section>\n\n<section id=\"how\">\n<header>\n<h2>使用流程</h2>\n<p>阿甘加速不强制使用某一客户端，下单后按以下四步即可上手。</p>\n</header>\n<div class=\"steps\">\n<ol>\n<li><strong>选择套餐</strong>在下方“套餐与价格”一节确认基础版、旗舰版或团队版，决定月付或年付。</li>\n<li><strong>获得订阅信息</strong>支付成功后，订阅链接、端口与密钥将发送至下单邮箱；密钥可随时在用户中心重置。</li>\n<li><strong>导入第三方客户端</strong>使用你熟悉的兼容客户端导入订阅链接，阿甘加速对常见客户端协议保持兼容。</li>\n<li><strong>选择节点并连接</strong>在客户端中按需挑选节点，套餐内流量与设备数以当月实际使用情况为准。</li>\n</ol>\n</div>\n</section>\n\n<section id=\"scope\">\n<header>\n<h2>服务范围与适用场景</h2>\n<p>本页将阿甘加速目前公开承诺的服务事项列成清单，供你与同类产品逐项比对。</p>\n</header>\n<div class=\"tickets\">\n<article class=\"ticket\">\n<h3>流媒体与社媒</h3>\n<p>基础版支持基础流媒体解锁，旗舰版覆盖全节点原生流媒体解锁，团队版在此基础上叠加 VIP 专属高带宽节点。</p>\n<ul>\n<li>基础版：覆盖常见基础站点</li>\n<li>旗舰版：全节点原生解锁</li>\n<li>团队版：叠加 VIP 高带宽节点</li>\n</ul>\n</article>\n<article class=\"ticket\">\n<h3>多设备同连</h3>\n<p>同时在线设备数与套餐一一对应，超出数量上限时新设备会被旧连接挤掉。</p>\n<ul>\n<li>基础版：3 台</li>\n<li>旗舰版：5 台</li>\n<li>团队版：20 台</li>\n</ul>\n</article>\n<article class=\"ticket\">\n<h3>团队与定制</h3>\n<p>团队版面向小工作室、外包小组与跨境业务小组，可按需申请企业定制路由方案。</p>\n<ul>\n<li>专属客户经理</li>\n<li>企业定制路由</li>\n<li>高带宽节点优先</li>\n</ul>\n</article>\n<article class=\"ticket\">\n<h3>售后与支持</h3>\n<p>旗舰版与团队版享有 7x24 优先工单支持；基础版用户同样可以提交工单，按提交顺序处理。</p>\n<ul>\n<li>工单回复</li>\n<li>订阅异常排查</li>\n<li>客户端配置协助</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section id=\"plans\" class=\"plans-wrap\">\n<header>\n<h2>套餐与价格</h2>\n<p>三档套餐以阶梯形式呈现，依次覆盖个人、家庭与小团队使用场景。所有套餐均可月付或年付，年付按 10 个月价格一次性结算。</p>\n</header>\n<div class=\"plans\">\n\n<article class=\"plan\">\n<h3>基础版</h3>\n<div class=\"price\">¥15<small>/月</small></div>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<div class=\"foot\">适合：轻度个人使用</div>\n</article>\n\n<article class=\"plan is-feature\">\n<span class=\"ribbon\">推荐</span>\n<h3>旗舰版</h3>\n<div class=\"price\">¥35<small>/月</small></div>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<div class=\"foot\">适合：家庭与重度个人用户</div>\n</article>\n\n<article class=\"plan\">\n<h3>团队版</h3>\n<div class=\"price\">¥85<small>/月</small></div>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<div class=\"foot\">适合：小团队与工作室</div>\n</article>\n\n</div>\n<p>所有套餐价格与权益以本页为准；流量从订阅生效那一刻起按自然月结算，月底未用完不结转。</p>\n</section>\n\n<section id=\"clients\" class=\"clients\">\n<header>\n<h2>客户端支持</h2>\n<p>阿甘加速不强制使用自研客户端，订阅链接可导入常见兼容客户端。具体下载地址请以客户端官方页面为准，下表仅列出阿甘加速目前文档中提到的客户端类别。</p>\n</header>\n<div class=\"client-list\">\n<article class=\"client\">\n<span class=\"os\">桌面 · Windows</span>\n<span class=\"name\">兼容主流 Windows 加速客户端</span>\n<p class=\"note\">通过订阅链接导入，支持系统代理与 TUN 模式切换。</p>\n<span class=\"src\">下载：见客户端官方页面</span>\n</article>\n<article class=\"client\">\n<span class=\"os\">桌面 · macOS</span>\n<span class=\"name\">兼容 macOS 加速客户端</span>\n<p class=\"note\">适配 Apple Silicon 与 Intel 机型，请按客户端指引配置权限。</p>\n<span class=\"src\">下载：见客户端官方页面</span>\n</article>\n<article class=\"client\">\n<span class=\"os\">移动 · iOS / Android</span>\n<span class=\"name\">兼容 iOS 与 Android 客户端</span>\n<p class=\"note\">在客户端中粘贴订阅链接或扫码导入，按节点列表选择。</p>\n<span class=\"src\">下载：见客户端官方页面</span>\n</article>\n</div>\n</section>\n\n<section id=\"faq\">\n<header>\n<h2>常见问题</h2>\n<p>以下问答按主题分组，覆盖订阅、流量、设备与售后等高频疑问。</p>\n</header>\n\n<div class=\"faq-group\">\n<h3>订阅与计费</h3>\n<details class=\"faq-item\">\n<summary>阿甘加速的套餐可以随时升级或降级吗？</summary>\n<p>支持。月付用户可在下一个计费周期切换套餐并补齐差价；年付用户可在用户中心提交工单，由客户经理协助按剩余天数换算。</p>\n</details>\n<details class=\"faq-item\">\n<summary>年付优惠是怎么计算的？</summary>\n<p>所有年付方案按 10 个月价格一次性结算，相当于赠送两个月使用时长。具体价格见“套餐与价格”一节。</p>\n</details>\n<details class=\"faq-item\">\n<summary>订阅到期后会怎么样？</summary>\n<p>到期后未续费的订阅将暂停连接，账号信息保留；续费后可继续使用，历史订阅链接仍有效。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>流量与设备</h3>\n<details class=\"faq-item\">\n<summary>当月流量用完会断网吗？</summary>\n<p>当月套餐流量用完后连接将停止，新的自然月恢复。可在用户中心查看实时用量，避免在月底出现集中消耗。</p>\n</details>\n<details class=\"faq-item\">\n<summary>设备数限制是按设备还是按客户端实例？</summary>\n<p>按同时在线的客户端实例计算。例如旗舰版允许 5 台设备同时在线，超出数量时新接入会替换最早接入的实例。</p>\n</details>\n<details class=\"faq-item\">\n<summary>未使用完的流量会结转到下个月吗？</summary>\n<p>不结转。所有套餐的流量额度按自然月结算，月底未用完部分将清零。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>节点与解锁</h3>\n<details class=\"faq-item\">\n<summary>基础版和旗舰版的解锁范围区别在哪里？</summary>\n<p>基础版覆盖常见基础流媒体；旗舰版承诺全节点原生流媒体解锁，并叠加 IPLC 专线游戏加速优化。</p>\n</details>\n<details class=\"faq-item\">\n<summary>团队版的“企业定制路由”包含什么？</summary>\n<p>团队版用户提交工单后，专属客户经理会根据业务类型与常用目的地整理一组路由策略，优先匹配 VIP 高带宽节点。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>售后与支持</h3>\n<details class=\"faq-item\">\n<summary>工单一般多久回复？</summary>\n<p>旗舰版与团队版提供 7x24 优先工单支持；基础版同样可提交工单，按提交顺序处理，常规问题一般在当日内答复。</p>\n</details>\n<details class=\"faq-item\">\n<summary>可以申请试用吗？</summary>\n<p>暂不提供固定时长的公开试用。你可以从基础版月付开始体验，确认稳定后再切换为年付方案。</p>\n</details>\n<details class=\"faq-item\">\n<summary>账号密码或订阅链接泄露怎么办？</summary>\n<p>请立即在用户中心重置密钥，旧链接会即时失效；若已造成明显异常消耗，可提交工单申请核查。</p>\n</details>\n</div>\n\n</section>\n\n<div class=\"foot-band\">\n<a href=\"#top\">返回顶部</a>·<a href=\"#plans\">套餐</a>·<a href=\"#faq\">常见问题</a>\n<p>© 阿甘加速 · 本页所述套餐、流量与设备数以订阅页面最终显示为准。</p>\n</div>\n\n</main>",
+          "hash": "a95d8af20b5a4145485e7182be680a057cb3059bffe7053f2636cedb5b3e2dfa",
+          "seo": {
+            "title": "阿甘加速 | 让每一次连接都像散步一样自然",
+            "keywords": "阿甘加速,加速服务,流媒体解锁,多设备同连,团队版,基础版,旗舰版",
+            "description": "阿甘加速是一家专注个人与小团队网络加速服务的供应商，提供基础版、旗舰版、团队版三档月付与年付方案，覆盖流媒体解锁、多设备同连与定制路由。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "6767",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "8 酒红配象牙白",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "setwr.cn",
+    "host": "p-52284acbc3.setwr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a5e1dbe83f7e5392f3eabc6f113bacbd248580adf5ed793f8f65abf6b7125e6d",
+    "sitemap.xml": "1525f78fabb3ea2c10ad582edd6959aba36f77d585e3637b7bab6915dfcd28a2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b75a914b73b304b2adc3407dcc7e8343818f198b244429412bc1e046ae99256d",
+    "robots.txt": "9ba7834d37ded27339df8f6545be07f49c75df9f60a73d762ddbefdbd5c7bb38",
+    "3d59f97e22d86f5be8c57dbdbe322c85.txt": "83bb460401ccb929f226576930768602b43dcc3dc0c1274ee442620a5971fb87"
+  },
+  "revision": "dbec4bdab95122128092d61318daf86601969ff63129dc71b43707f288f4d433"
+}
